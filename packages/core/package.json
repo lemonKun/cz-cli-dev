@@ -1,6 +1,6 @@
 {
   "name": "@cz-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "lemonKun <zcai1@leqee.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "test": "echo \"Error: run tests from core\" "
   },
   "dependencies": {
-    "@cz-cli-dev/util": "^1.0.0"
+    "@cz-cli-dev/util": "^1.0.1"
   }
 }
