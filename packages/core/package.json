@@ -5,10 +5,13 @@
   "author": "lemonKun <zcai1@leqee.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/core.js",
+  "main": "bin/core.js",
   "directories": {
-    "lib": "lib",
+    "lib": "bin",
     "test": "__tests__"
+  },
+  "bin": {
+    "lemon": "bin/core.js"
   },
   "files": [
     "lib"
@@ -20,6 +23,6 @@
     "test": "echo \"Error: run tests from core\" "
   },
   "dependencies": {
-    "@lemon-kun/util": "^1.0.1"
+    "@lemon-kun/util": "file:../util"
   }
 }

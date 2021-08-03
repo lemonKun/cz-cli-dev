@@ -1,7 +1,4 @@
-'use strict';
-
-module.exports = util;
-
 function util() {
-    // TODO
+  console.log('import util package success!')
 }
+module.exports = util;
