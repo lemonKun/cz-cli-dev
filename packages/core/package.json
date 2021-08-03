@@ -23,6 +23,7 @@
     "test": "echo \"Error: run tests from core\" "
   },
   "dependencies": {
-    "@lemon-kun/util": "file:../util"
-  }
+    "@lemon-kun/util": "^1.0.2"
+  },
+  "gitHead": "d55da185211143be950e5a1813e026514d7166cb"
 }
