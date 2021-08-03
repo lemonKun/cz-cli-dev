@@ -1,6 +1,6 @@
 {
   "name": "@lemon-kun/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "lemonKun <zcai1@leqee.com>",
   "homepage": "",
@@ -23,7 +23,7 @@
     "test": "echo \"Error: run tests from core\" "
   },
   "dependencies": {
-    "@lemon-kun/util": "^1.0.2"
+    "@lemon-kun/util": "^1.0.3"
   },
   "gitHead": "d55da185211143be950e5a1813e026514d7166cb"
 }
